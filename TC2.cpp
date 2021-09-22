@@ -1,5 +1,5 @@
 ﻿
-
+//-----------------------------------------------------------------STATUS WIP(Work in progress) ver 0.3-------------------------------------------------------------------------------
 #include <iostream>
 using namespace std;
 void createBlackField(int, int, int(*)[5]);
